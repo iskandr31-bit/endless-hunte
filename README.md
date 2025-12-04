@@ -1,2 +1,2 @@
-# endless-hunte
+# endless-hunter
 Моя первая игра на JS
